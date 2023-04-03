@@ -17,6 +17,7 @@ Comparison of average SFA and DEA results:
 Method based on shepard distance function, as proposed by Zhou,P.; Ang, B.W.; Zhou, D. (2012): Measuring economy-wide energy efficiency performance: a parametric frontier approach. Applied Energy, 90(1), pp.196-200
 
 Data: 
+
 Feenstra, R. C., Inklaar, R., and Timmer, M. P. (2015): The Next Generation of the Penn World Table. In: American Economic Review, 105(10), pp. 3150–3182.
 
 Eurostat (2023): Primary energy consumption data. In: https://ec.europa.eu/eurostat/databrowser/product/page/SDG_07_10.
